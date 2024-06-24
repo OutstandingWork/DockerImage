@@ -1,4 +1,4 @@
-#!/bin/bash
+docker-compose --version#!/bin/bash
 
 # Protects script from continuing with an error
 set -eu -o pipefail
